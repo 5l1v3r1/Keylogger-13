@@ -1,5 +1,5 @@
 # Keylogger
-Send email with logs
+Sends an email with logs
 
 ## Getting started
 Used modules 
